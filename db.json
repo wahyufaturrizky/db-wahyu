@@ -5,40 +5,45 @@
       "author": "Wahyu Fatur Rizki", 
       "category_name": "Web Developer", 
       "body_post": "Laravel 5 Description", 
-      "status_post": "", 
-      "created_at": "2019-01-20"
+      "status_post": "Published", 
+      "created_at": "2019-01-20",
+      "update_at": "2019-01-20"
     },
     { "id": 2, 
       "title": "VUE JS Tutorial: Introduction", 
       "author": "Adi Situmorang", 
       "category_name": "Mobile Developer", 
       "body_post": "VUE JS Description", 
-      "status_post": "", 
-      "created_at": "2019-01-20"
+      "status_post": "Published", 
+      "created_at": "2019-01-20",
+      "update_at": "2019-01-20"
     },
     { "id": 3, 
       "title": "VUE JS Tutorial: Introduction", 
       "author": "Adi Situmorang", 
       "category_name": "Mobile Developer", 
       "body_post": "VUE JS Description", 
-      "status_post": "", 
-      "created_at": "2019-01-20"
+      "status_post": "Published", 
+      "created_at": "2019-01-20",
+      "update_at": "2019-01-20"
     },
     { "id": 4, 
       "title": "VUE JS Tutorial: Introduction", 
       "author": "Adi Situmorang", 
       "category_name": "Mobile Developer", 
       "body_post": "VUE JS Description", 
-      "status_post": "", 
-      "created_at": "2019-01-20"
+      "status_post": "Published", 
+      "created_at": "2019-01-20",
+      "update_at": "2019-01-20"
     },
     { "id": 5, 
       "title": "VUE JS Tutorial: Introduction", 
       "author": "Adi Situmorang", 
       "category_name": "Mobile Developer", 
       "body_post": "VUE JS Description", 
-      "status_post": "", 
-      "created_at": "2019-01-20"
+      "status_post": "Published", 
+      "created_at": "2019-01-20",
+      "update_at": "2019-01-20"
     },
     { "id": 6, 
       "title": "VUE JS Tutorial: Introduction", 
@@ -46,15 +51,17 @@
       "category_name": "Mobile Developer", 
       "body_post": "VUE JS Description", 
       "status_post": "", 
-      "created_at": "2019-01-20"
+      "created_at": "2019-01-20",
+      "update_at": "2019-01-20"
     },
     { "id": 7, 
       "title": "VUE JS Tutorial: Introduction", 
       "author": "Adi Situmorang", 
       "category_name": "Mobile Developer", 
       "body_post": "VUE JS Description", 
-      "status_post": "", 
-      "created_at": "2019-01-20"
+      "status_post": "Published", 
+      "created_at": "2019-01-20",
+      "update_at": "2019-01-20"
     }
   ]
 }
